@@ -255,18 +255,6 @@ Possible additions:
 - [ ] Dark/Light mode toggle
 - [ ] More streaming sources
 
-## 📄 License
-
-Based on THE-ULTIMATE by Harsh Patel
-- Original: https://github.com/patelharsh80874/THE-ULTIMATE
-- Redesigned as Nexify Watch
-
-## 🙏 Credits
-
-- **Original Project**: THE-ULTIMATE by Harsh Patel
-- **API**: The Movie Database (TMDB)
-- **Icons**: Remixicon
-- **Design**: Modern Black & White Aesthetic
 
 ## 💡 Tips
 
